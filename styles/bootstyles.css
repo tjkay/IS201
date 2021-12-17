@@ -1,0 +1,14 @@
+body {
+    background-image: url("../images/EQKhGN.png")
+}
+p {
+    color: white;
+}
+nav {
+    
+    align-items: center;
+    color: white;
+}
+ul {
+    align-content: stretch;
+}

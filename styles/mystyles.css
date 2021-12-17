@@ -1,0 +1,31 @@
+body {
+    background-image: url("../images/EQKhGN.png")
+}
+h2 {
+color: white;
+
+}
+h1 {
+    
+    text-decoration-line: underline;
+    color: black
+}
+span {
+    text-rendering: geometricPrecision;
+    text-emphasis-color: white;
+    -moz-text-size-adjust: unset;
+    color:black
+}
+ul {
+    color:black
+}
+p {
+    color:black
+    
+}
+ol {
+    color:black
+}
+li {
+    font-family: 'Times New Roman', Times, serif
+}
